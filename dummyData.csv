@@ -1,0 +1,431 @@
+﻿Area,Rooms,Price (per thousand pounds),Walking time to the nearest metro station (mins),"Furnishing ( Furnished, Partially Furnished, Not Furnished)","Pet Accepted
+(Y/N)",Availability,"Supermarket Nearby
+(Y/N)",School Nearby (Y/N),Buy/Rent,"Balcony
+(Y/N)",Size (sqft),No. of toilets,Property Type,Level,Greater London/London
+Wandsworth,Four or more Bedrooms,2167,8,Furnished,Yes,18/9/2021,No,No,Rent,Yes,1383,6,Detached/Landed,Low,Greater London
+Havering,Two Bedroom,825,15,Partially Furnished,No,19/9/2021,Yes,No,Rent,Yes,760,1,Detached/Landed,Low,Greater London
+Inner London,One Bedroom,450,5,Not furnished,Yes,20/9/2021,No,Yes,Rent,No,630,1,Detached/Landed,Low,London
+NORTH WEST,One Bedroom,290,22,Furnished,Yes,21/9/2021,No,No,Rent,Yes,648,1,Detached/Landed,Low,London
+Hounslow,Two Bedroom,1000,17,Partially Furnished,Yes,22/9/2021,Yes,No,Buy,Yes,755,1,Detached/Landed,Low,London
+Sutton,One Bedroom,695,23,Not furnished,Yes,23/9/2021,Yes,Yes,Buy,No,672,1,Detached/Landed,Low,London
+NORTH WEST,One Bedroom,412,1,Partially Furnished,No,24/9/2021,No,Yes,Rent,No,416,1,Detached/Landed,Low,London
+Hounslow,Three Bedroom,1225,7,Furnished,Yes,25/9/2021,Yes,Yes,Rent,No,1021,2,Detached/Landed,Low,Greater London
+EAST MIDLANDS,Four or more Bedrooms,495,26,Partially Furnished,Yes,26/9/2021,Yes,No,Buy,No,1335,4,Detached/Landed,Low,Greater London
+SOUTH WEST,Four or more Bedrooms,1025,23,Partially Furnished,Yes,27/9/2021,Yes,Yes,Buy,No,1318,5,Detached/Landed,Low,Greater London
+Tower Hamlets,Two Bedroom,1430,3,Partially Furnished,Yes,28/9/2021,No,No,Rent,Yes,743,1,Detached/Landed,Low,Greater London
+Camden,Four or more Bedrooms,1582,9,Not furnished,No,29/9/2021,No,Yes,Rent,No,1314,4,Detached/Landed,Low,Greater London
+City of London,One Bedroom,1625,20,Furnished,Yes,30/9/2021,Yes,Yes,Buy,Yes,638,1,Detached/Landed,Low,Greater London
+YORKSHIRE AND THE HUMBER,Four or more Bedrooms,475,26,Partially Furnished,Yes,1/10/2021,No,No,Buy,Yes,1485,7,Detached/Landed,Low,Greater London
+Hackney,One Bedroom,1148,23,Partially Furnished,Yes,2/10/2021,No,No,Rent,Yes,546,1,Detached/Landed,Low,London
+Tower Hamlets,One Bedroom,467,29,Furnished,Yes,3/10/2021,Yes,Yes,Buy,Yes,576,1,Detached/Landed,Low,London
+Westminster,Three Bedroom,3142,20,Partially Furnished,No,4/10/2021,Yes,No,Rent,Yes,1044,2,Detached/Landed,Low,Greater London
+Brent,One Bedroom,953,20,Furnished,No,5/10/2021,No,Yes,Buy,No,643,1,Detached/Landed,Low,Greater London
+Hackney,Four or more Bedrooms,2167,16,Partially Furnished,No,6/10/2021,Yes,No,Rent,No,1225,6,Detached/Landed,Low,Greater London
+Hammersmith and Fulham,Three Bedroom,1950,8,Not furnished,Yes,7/10/2021,Yes,Yes,Buy,No,911,1,Detached/Landed,Low,London
+WEST MIDLANDS,Four or more Bedrooms,850,26,Partially Furnished,Yes,8/10/2021,No,No,Buy,Yes,1367,5,Detached/Landed,Low,Greater London
+Hammersmith and Fulham,One Bedroom,1213,8,Partially Furnished,Yes,9/10/2021,Yes,Yes,Rent,No,526,1,Detached/Landed,Low,London
+Outer London,Four or more Bedrooms,950,21,Not furnished,Yes,10/10/2021,No,No,Rent,Yes,1561,7,Detached/Landed,Low,Greater London
+SOUTH WEST,One Bedroom,325,17,Furnished,No,11/10/2021,Yes,No,Rent,Yes,433,1,Detached/Landed,Low,London
+YORKSHIRE AND THE HUMBER,One Bedroom,390,7,Furnished,No,12/10/2021,Yes,Yes,Rent,Yes,576,1,Detached/Landed,Low,Greater London
+Havering,Four or more Bedrooms,1450,17,Partially Furnished,No,13/10/2021,Yes,No,Rent,Yes,1203,4,Detached/Landed,Low,Greater London
+Barking and Dagenham,Four or more Bedrooms,1250,14,Not furnished,Yes,14/10/2021,No,Yes,Rent,Yes,1486,7,Detached/Landed,Low,Greater London
+YORKSHIRE AND THE HUMBER,Two Bedroom,475,9,Partially Furnished,Yes,15/10/2021,No,No,Rent,No,792,1,Detached/Landed,Low,London
+EAST,Two Bedroom,590,21,Furnished,Yes,16/10/2021,Yes,No,Rent,No,751,1,Detached/Landed,Low,Greater London
+Greenwich,One Bedroom,750,8,Furnished,No,17/10/2021,Yes,No,Rent,Yes,464,1,Detached/Landed,Low,Greater London
+WEST MIDLANDS,Two Bedroom,500,24,Partially Furnished,No,18/10/2021,Yes,Yes,Rent,Yes,753,1,Detached/Landed,Low,London
+Islington,Four or more Bedrooms,2600,24,Not furnished,Yes,19/10/2021,Yes,Yes,Rent,No,1586,6,Detached/Landed,Low,London
+Barnet,One Bedroom,450,23,Furnished,Yes,20/10/2021,No,Yes,Buy,Yes,492,1,Detached/Landed,Low,Greater London
+Sutton,Four or more Bedrooms,790,19,Partially Furnished,No,21/10/2021,No,No,Buy,No,1343,4,Detached/Landed,Low,London
+Newham,Three Bedroom,1200,10,Not furnished,Yes,22/10/2021,Yes,Yes,Buy,No,1140,3,Detached/Landed,Low,London
+Kensington and Chelsea,One Bedroom,607,26,Not furnished,No,23/10/2021,Yes,No,Rent,Yes,425,1,Detached/Landed,Low,London
+Outer London,Four or more Bedrooms,900,21,Partially Furnished,No,24/10/2021,No,Yes,Buy,Yes,1303,5,Detached/Landed,Low,Greater London
+Redbridge,One Bedroom,410,8,Furnished,No,25/10/2021,No,No,Rent,Yes,625,1,Detached/Landed,Low,Greater London
+SOUTH WEST,Two Bedroom,595,20,Partially Furnished,No,26/10/2021,No,Yes,Rent,Yes,732,2,Detached/Landed,Low,London
+Redbridge,Three Bedroom,1200,30,Furnished,Yes,27/10/2021,Yes,Yes,Buy,Yes,1009,2,Detached/Landed,Low,Greater London
+Enfield,One Bedroom,758,3,Furnished,Yes,28/10/2021,No,No,Buy,Yes,506,1,Detached/Landed,Low,Greater London
+Islington,One Bedroom,520,6,Not furnished,No,29/10/2021,No,No,Buy,No,580,1,Detached/Landed,Low,London
+Islington,One Bedroom,500,14,Partially Furnished,No,30/10/2021,No,No,Buy,Yes,604,1,Detached/Landed,Low,London
+Bromley,Three Bedroom,1150,30,Partially Furnished,No,31/10/2021,Yes,Yes,Buy,No,1042,1,Detached/Landed,Low,Greater London
+Lambeth,One Bedroom,430,3,Furnished,Yes,1/11/2021,Yes,No,Rent,No,531,1,Detached/Landed,Low,London
+Havering,One Bedroom,675,20,Partially Furnished,No,2/11/2021,No,No,Buy,Yes,560,1,Detached/Landed,Low,Greater London
+Haringey,Two Bedroom,1249,10,Not furnished,No,3/11/2021,Yes,Yes,Rent,Yes,850,2,Detached/Landed,Low,Greater London
+Kensington and Chelsea,Two Bedroom,2600,5,Not furnished,No,4/11/2021,No,Yes,Rent,No,756,1,Detached/Landed,Low,Greater London
+Lewisham,One Bedroom,400,13,Furnished,Yes,5/11/2021,No,No,Buy,No,651,1,Detached/Landed,Low,Greater London
+Enfield,Two Bedroom,1001,22,Not furnished,No,6/11/2021,Yes,No,Buy,Yes,739,1,Detached/Landed,Low,Greater London
+Kingston upon Thames,Two Bedroom,1100,9,Partially Furnished,Yes,7/11/2021,Yes,No,Rent,Yes,803,1,Detached/Landed,Low,London
+WEST MIDLANDS,Three Bedroom,580,19,Furnished,No,8/11/2021,Yes,Yes,Buy,No,1077,2,Detached/Landed,Low,London
+Lambeth,One Bedroom,425,14,Not furnished,Yes,9/11/2021,No,No,Rent,No,446,1,Detached/Landed,Low,London
+Westminster,Four or more Bedrooms,6500,12,Furnished,Yes,10/11/2021,No,Yes,Buy,Yes,1472,5,Detached/Landed,Low,London
+Hackney,One Bedroom,458,5,Not furnished,Yes,11/11/2021,Yes,No,Buy,No,656,1,Detached/Landed,Low,London
+NORTH EAST,One Bedroom,394,9,Partially Furnished,Yes,12/11/2021,Yes,No,Buy,No,553,1,Detached/Landed,Low,Greater London
+Ealing,One Bedroom,925,2,Partially Furnished,No,13/11/2021,Yes,No,Buy,No,620,1,Detached/Landed,Low,London
+Croydon,Three Bedroom,1118,22,Not furnished,Yes,14/11/2021,Yes,No,Buy,No,1090,2,Detached/Landed,Low,Greater London
+Newham,Four or more Bedrooms,1400,4,Partially Furnished,Yes,15/11/2021,No,Yes,Rent,No,1407,6,Detached/Landed,Low,London
+Brent,One Bedroom,457,16,Partially Furnished,Yes,16/11/2021,Yes,No,Buy,No,671,1,Detached/Landed,Low,Greater London
+Ealing,One Bedroom,885,12,Not furnished,Yes,17/11/2021,Yes,No,Rent,Yes,446,1,Detached/Landed,Low,Greater London
+Lewisham,Three Bedroom,1220,27,Furnished,No,18/11/2021,Yes,No,Rent,No,1065,1,Detached/Landed,Low,Greater London
+Camden,One Bedroom,580,1,Not furnished,No,19/11/2021,Yes,No,Buy,No,453,1,Detached/Landed,Low,London
+Camden,Two Bedroom,1800,4,Partially Furnished,No,20/11/2021,Yes,No,Rent,No,803,1,Detached/Landed,Low,Greater London
+Camden,One Bedroom,1365,12,Not furnished,No,21/11/2021,No,No,Buy,No,438,1,Detached/Landed,Low,Greater London
+Bromley,Three Bedroom,1100,2,Furnished,Yes,22/11/2021,Yes,Yes,Rent,No,982,1,Detached/Landed,Low,Greater London
+Merton,Four or more Bedrooms,1000,4,Not furnished,Yes,23/11/2021,Yes,Yes,Rent,No,1364,7,Detached/Landed,Low,Greater London
+Lambeth,Four or more Bedrooms,2167,22,Partially Furnished,Yes,24/11/2021,Yes,No,Rent,Yes,1485,4,Detached/Landed,Low,Greater London
+Hackney,Four or more Bedrooms,1148,2,Furnished,Yes,25/11/2021,Yes,No,Rent,Yes,1511,6,Detached/Landed,Low,London
+Hounslow,Four or more Bedrooms,975,3,Not furnished,No,26/11/2021,No,Yes,Rent,No,1350,7,Detached/Landed,Low,Greater London
+Brent,One Bedroom,433,7,Not furnished,No,27/11/2021,No,Yes,Buy,Yes,489,1,Detached/Landed,Low,Greater London
+Kingston upon Thames,Four or more Bedrooms,2000,7,Partially Furnished,Yes,28/11/2021,Yes,No,Rent,No,1451,4,Detached/Landed,Low,Greater London
+Sutton,One Bedroom,430,8,Not furnished,Yes,29/11/2021,Yes,Yes,Buy,Yes,630,1,Detached/Landed,Low,Greater London
+Croydon,Three Bedroom,1118,7,Not furnished,Yes,30/11/2021,Yes,Yes,Rent,Yes,1037,2,Detached/Landed,Low,Greater London
+Redbridge,Four or more Bedrooms,1500,13,Not furnished,No,1/12/2021,Yes,Yes,Rent,Yes,1367,6,Detached/Landed,Low,Greater London
+NORTH EAST,Four or more Bedrooms,450,24,Not furnished,No,2/12/2021,No,Yes,Rent,Yes,1443,5,Detached/Landed,Low,Greater London
+Havering,Four or more Bedrooms,835,18,Furnished,Yes,3/12/2021,Yes,No,Buy,Yes,1352,6,Detached/Landed,Low,Greater London
+Greenwich,Four or more Bedrooms,1399,27,Not furnished,No,4/12/2021,Yes,Yes,Buy,No,1389,5,Detached/Landed,Low,London
+SOUTH WEST,Four or more Bedrooms,595,7,Not furnished,Yes,5/12/2021,Yes,No,Buy,No,1548,7,Detached/Landed,Low,London
+Greenwich,Four or more Bedrooms,1325,30,Furnished,No,6/12/2021,No,No,Rent,Yes,1483,7,Detached/Landed,Low,London
+WEST MIDLANDS,Three Bedroom,575,22,Partially Furnished,No,7/12/2021,No,Yes,Rent,Yes,938,1,Detached/Landed,Low,London
+Havering,Three Bedroom,950,9,Partially Furnished,Yes,8/12/2021,No,Yes,Rent,Yes,1113,2,Detached/Landed,Low,London
+EAST MIDLANDS,Four or more Bedrooms,750,22,Not furnished,No,9/12/2021,Yes,No,Rent,No,1367,7,Detached/Landed,Low,London
+Haringey,Three Bedroom,1500,1,Partially Furnished,Yes,10/12/2021,No,Yes,Buy,No,1126,1,Detached/Landed,Low,Greater London
+NORTH WEST,Three Bedroom,575,30,Partially Furnished,Yes,11/12/2021,No,Yes,Buy,Yes,1133,2,Detached/Landed,Low,London
+Hounslow,Four or more Bedrooms,975,9,Furnished,Yes,12/12/2021,Yes,Yes,Rent,No,1298,4,Detached/Landed,Low,Greater London
+Lewisham,One Bedroom,775,14,Not furnished,No,13/12/2021,No,No,Buy,No,430,1,Detached/Landed,Low,London
+Camden,One Bedroom,585,10,Not furnished,No,14/12/2021,Yes,No,Buy,No,448,1,Detached/Landed,Low,Greater London
+EAST,One Bedroom,350,11,Furnished,Yes,15/12/2021,No,Yes,Rent,No,679,1,Detached/Landed,Low,London
+Westminster,Three Bedroom,3077,4,Partially Furnished,Yes,16/12/2021,No,No,Buy,Yes,981,2,Detached/Landed,Low,Greater London
+YORKSHIRE AND THE HUMBER,Two Bedroom,450,28,Furnished,Yes,17/12/2021,No,Yes,Buy,No,744,2,Detached/Landed,Low,London
+SOUTH EAST,Three Bedroom,850,21,Furnished,Yes,18/12/2021,Yes,Yes,Rent,No,1181,1,Detached/Landed,Low,London
+Inner London,Four or more Bedrooms,2383,15,Furnished,Yes,19/12/2021,Yes,No,Rent,Yes,1433,5,Detached/Landed,Low,London
+Tower Hamlets,Four or more Bedrooms,2167,8,Not furnished,Yes,20/12/2021,No,Yes,Rent,Yes,1389,6,Detached/Landed,Low,Greater London
+Kingston upon Thames,One Bedroom,390,15,Partially Furnished,No,21/12/2021,Yes,Yes,Buy,No,550,1,Detached/Landed,Low,London
+Haringey,One Bedroom,953,8,Partially Furnished,No,22/12/2021,No,Yes,Rent,No,664,1,Detached/Landed,Low,London
+EAST,One Bedroom,490,11,Partially Furnished,No,23/12/2021,No,Yes,Buy,No,652,1,Detached/Landed,Low,London
+Tower Hamlets,One Bedroom,459,19,Furnished,Yes,24/12/2021,Yes,No,Rent,No,495,1,Detached/Landed,Low,London
+Waltham Forest,Four or more Bedrooms,875,10,Furnished,Yes,25/12/2021,Yes,No,Rent,Yes,1420,5,Detached/Landed,Low,Greater London
+LONDON,One Bedroom,420,15,Not furnished,Yes,26/12/2021,No,Yes,Rent,No,437,1,Detached/Landed,Low,London
+SOUTH EAST,Four or more Bedrooms,725,27,Not furnished,Yes,27/12/2021,No,Yes,Buy,No,1289,5,Detached/Landed,Low,Greater London
+Harrow,Four or more Bedrooms,1750,13,Furnished,Yes,28/12/2021,No,Yes,Rent,Yes,1320,4,Detached/Landed,Low,London
+Hillingdon,Three Bedroom,1179,28,Furnished,Yes,29/12/2021,Yes,No,Rent,No,1129,1,Detached/Landed,Low,Greater London
+Islington,Two Bedroom,1603,22,Not furnished,Yes,30/12/2021,No,No,Buy,Yes,786,2,Detached/Landed,Low,Greater London
+LONDON,Three Bedroom,1350,25,Partially Furnished,Yes,31/12/2021,No,No,Rent,Yes,1190,1,Detached/Landed,Low,Greater London
+Kensington and Chelsea,One Bedroom,625,28,Partially Furnished,No,1/1/2022,Yes,No,Rent,No,603,1,Detached/Landed,Low,London
+Kingston upon Thames,Four or more Bedrooms,1825,9,Partially Furnished,Yes,2/1/2022,Yes,No,Rent,Yes,1305,7,Flat/Appartment,Low,Greater London
+Wandsworth,Two Bedroom,1350,3,Furnished,No,3/1/2022,Yes,Yes,Rent,Yes,824,2,Flat/Appartment,Middle,London
+Ealing,Three Bedroom,1300,5,Furnished,No,4/1/2022,Yes,Yes,Buy,Yes,962,1,Flat/Appartment,Middle,London
+SOUTH EAST,Three Bedroom,850,24,Partially Furnished,No,5/1/2022,Yes,No,Rent,Yes,1164,3,Flat/Appartment,Low,London
+EAST,Two Bedroom,595,23,Not furnished,No,6/1/2022,Yes,Yes,Rent,No,789,2,Flat/Appartment,Low,London
+SOUTH EAST,Two Bedroom,725,5,Furnished,Yes,7/1/2022,Yes,Yes,Buy,No,736,2,Flat/Appartment,Middle,Greater London
+WEST MIDLANDS,Four or more Bedrooms,825,6,Furnished,No,8/1/2022,Yes,Yes,Buy,Yes,1318,5,Flat/Appartment,High,Greater London
+Richmond upon Thames,Three Bedroom,1550,19,Not furnished,Yes,9/1/2022,No,No,Buy,Yes,1098,3,Flat/Appartment,Middle,Greater London
+Croydon,Four or more Bedrooms,1500,3,Furnished,Yes,10/1/2022,No,Yes,Rent,Yes,1373,5,Flat/Appartment,High,Greater London
+NORTH WEST,Three Bedroom,575,21,Not furnished,No,11/1/2022,Yes,Yes,Buy,Yes,996,2,Flat/Appartment,Low,London
+SOUTH WEST,Three Bedroom,700,14,Furnished,Yes,12/1/2022,No,No,Rent,No,1133,3,Flat/Appartment,Low,London
+Bromley,Three Bedroom,1100,26,Partially Furnished,Yes,13/1/2022,Yes,No,Rent,No,1125,3,Flat/Appartment,Low,Greater London
+Richmond upon Thames,One Bedroom,975,6,Not furnished,No,14/1/2022,Yes,Yes,Rent,No,400,1,Flat/Appartment,High,London
+City of London,Four or more Bedrooms,-,4,Partially Furnished,No,15/1/2022,No,Yes,Rent,Yes,1356,6,Flat/Appartment,High,Greater London
+SOUTH WEST,One Bedroom,475,18,Partially Furnished,No,16/1/2022,No,Yes,Buy,Yes,694,1,Flat/Appartment,High,London
+Enfield,One Bedroom,750,12,Not furnished,No,17/1/2022,No,No,Rent,No,465,1,Flat/Appartment,High,London
+Merton,One Bedroom,949,17,Not furnished,Yes,18/1/2022,Yes,No,Buy,No,582,1,Flat/Appartment,High,Greater London
+Hammersmith and Fulham,Two Bedroom,1647,1,Furnished,Yes,19/1/2022,Yes,No,Buy,No,873,2,Flat/Appartment,Middle,London
+Barnet,Two Bedroom,1170,11,Partially Furnished,Yes,20/1/2022,Yes,No,Rent,Yes,779,2,Flat/Appartment,Low,Greater London
+Haringey,Four or more Bedrooms,1950,27,Partially Furnished,No,21/1/2022,Yes,Yes,Buy,Yes,1527,5,Flat/Appartment,High,London
+SOUTH EAST,One Bedroom,350,24,Not furnished,Yes,22/1/2022,Yes,Yes,Buy,No,650,1,Flat/Appartment,High,Greater London
+Hammersmith and Fulham,Two Bedroom,1495,22,Furnished,Yes,23/1/2022,No,No,Buy,Yes,781,2,Flat/Appartment,Middle,London
+Waltham Forest,Four or more Bedrooms,900,14,Not furnished,No,24/1/2022,No,Yes,Rent,Yes,1545,7,Flat/Appartment,Middle,Greater London
+Kingston upon Thames,Two Bedroom,1100,19,Partially Furnished,Yes,25/1/2022,No,Yes,Buy,No,785,2,Flat/Appartment,Middle,Greater London
+Ealing,Four or more Bedrooms,1925,21,Partially Furnished,No,26/1/2022,No,No,Rent,No,1228,7,Flat/Appartment,Middle,Greater London
+Enfield,One Bedroom,390,2,Furnished,Yes,27/1/2022,No,No,Rent,Yes,519,1,Flat/Appartment,High,Greater London
+Haringey,One Bedroom,997,3,Partially Furnished,No,28/1/2022,Yes,No,Buy,Yes,498,1,Flat/Appartment,Low,Greater London
+Lambeth,Four or more Bedrooms,1200,2,Furnished,Yes,29/1/2022,Yes,Yes,Rent,Yes,1268,6,Flat/Appartment,High,London
+NORTH WEST,Two Bedroom,495,10,Partially Furnished,No,30/1/2022,Yes,Yes,Rent,No,883,1,Flat/Appartment,Low,London
+Hounslow,Two Bedroom,1050,25,Not furnished,No,31/1/2022,No,Yes,Rent,Yes,746,2,Flat/Appartment,Low,Greater London
+Tower Hamlets,Three Bedroom,1733,2,Not furnished,Yes,1/2/2022,No,No,Rent,Yes,961,3,Flat/Appartment,High,Greater London
+Richmond upon Thames,One Bedroom,925,2,Partially Furnished,No,2/2/2022,Yes,Yes,Buy,Yes,535,1,Flat/Appartment,High,Greater London
+LONDON,Two Bedroom,1200,27,Not furnished,No,3/2/2022,No,No,Buy,Yes,866,1,Flat/Appartment,Middle,Greater London
+Redbridge,One Bedroom,715,6,Partially Furnished,No,4/2/2022,No,Yes,Buy,Yes,487,1,Flat/Appartment,Middle,London
+NORTH EAST,One Bedroom,395,25,Not furnished,No,5/2/2022,No,Yes,Rent,No,437,1,Flat/Appartment,Low,London
+Richmond upon Thames,One Bedroom,368,14,Partially Furnished,No,6/2/2022,No,Yes,Rent,No,692,1,Flat/Appartment,Middle,London
+Hillingdon,Two Bedroom,950,1,Furnished,Yes,7/2/2022,No,No,Rent,Yes,792,1,Flat/Appartment,Middle,Greater London
+Barking and Dagenham,One Bedroom,336,26,Not furnished,No,8/2/2022,Yes,Yes,Buy,No,581,1,Flat/Appartment,Low,Greater London
+Hackney,One Bedroom,446,3,Partially Furnished,No,9/2/2022,Yes,No,Buy,No,473,1,Flat/Appartment,High,Greater London
+Camden,One Bedroom,575,16,Not furnished,No,10/2/2022,Yes,No,Buy,Yes,536,1,Flat/Appartment,Low,London
+Lambeth,One Bedroom,450,9,Partially Furnished,No,11/2/2022,Yes,No,Rent,No,663,1,Flat/Appartment,High,Greater London
+LONDON,Two Bedroom,1192,24,Furnished,Yes,12/2/2022,Yes,Yes,Rent,No,809,2,Flat/Appartment,High,Greater London
+Lambeth,Four or more Bedrooms,1148,7,Furnished,Yes,13/2/2022,No,No,Rent,Yes,1557,4,Flat/Appartment,Middle,London
+YORKSHIRE AND THE HUMBER,One Bedroom,286,1,Partially Furnished,Yes,14/2/2022,Yes,Yes,Buy,Yes,514,1,Flat/Appartment,Low,Greater London
+Newham,One Bedroom,800,12,Partially Furnished,Yes,15/2/2022,No,No,Rent,No,443,1,Flat/Appartment,High,Greater London
+Southwark,Four or more Bedrooms,1200,3,Not furnished,No,16/2/2022,Yes,Yes,Buy,Yes,1454,4,Flat/Appartment,Low,London
+Harrow,One Bedroom,455,12,Partially Furnished,Yes,17/2/2022,Yes,Yes,Buy,No,435,1,Flat/Appartment,Low,Greater London
+Lewisham,Four or more Bedrooms,1651,18,Furnished,Yes,18/2/2022,No,No,Buy,No,1239,6,Flat/Appartment,Middle,London
+Outer London,Three Bedroom,1225,28,Not furnished,No,19/2/2022,Yes,No,Buy,No,968,1,Flat/Appartment,Low,Greater London
+EAST MIDLANDS,Four or more Bedrooms,495,7,Not furnished,No,20/2/2022,No,Yes,Buy,Yes,1567,4,Flat/Appartment,Middle,London
+Kingston upon Thames,One Bedroom,850,25,Furnished,No,21/2/2022,Yes,Yes,Rent,Yes,619,1,Flat/Appartment,Middle,London
+Camden,One Bedroom,1300,25,Not furnished,Yes,22/2/2022,Yes,No,Rent,No,519,1,Flat/Appartment,Low,London
+Lambeth,Three Bedroom,1571,9,Not furnished,Yes,23/2/2022,No,Yes,Buy,No,992,1,Flat/Appartment,Middle,Greater London
+SOUTH WEST,One Bedroom,325,9,Not furnished,No,24/2/2022,Yes,Yes,Buy,No,560,1,Flat/Appartment,Low,Greater London
+Southwark,Three Bedroom,1500,14,Not furnished,Yes,25/2/2022,Yes,Yes,Buy,No,1194,3,Flat/Appartment,Low,Greater London
+Croydon,One Bedroom,725,25,Not furnished,Yes,26/2/2022,Yes,No,Buy,No,524,1,Flat/Appartment,High,Greater London
+Barnet,Three Bedroom,1500,2,Furnished,No,27/2/2022,No,No,Rent,Yes,999,2,Flat/Appartment,High,Greater London
+Tower Hamlets,Two Bedroom,1473,25,Furnished,No,28/2/2022,No,Yes,Rent,No,722,2,Flat/Appartment,High,Greater London
+Bromley,Four or more Bedrooms,875,11,Partially Furnished,No,1/3/2022,Yes,Yes,Rent,Yes,1551,6,Flat/Appartment,Low,Greater London
+NORTH WEST,One Bedroom,415,22,Not furnished,Yes,2/3/2022,No,Yes,Rent,Yes,446,1,Flat/Appartment,High,Greater London
+Barking and Dagenham,One Bedroom,665,4,Not furnished,No,3/3/2022,No,No,Rent,No,456,1,Flat/Appartment,Low,London
+City of London,One Bedroom,-,4,Furnished,No,4/3/2022,Yes,Yes,Buy,Yes,556,1,Flat/Appartment,Middle,London
+NORTH WEST,One Bedroom,290,14,Partially Furnished,No,5/3/2022,No,No,Buy,Yes,416,1,Flat/Appartment,Low,Greater London
+Ealing,Four or more Bedrooms,1993,13,Not furnished,No,6/3/2022,No,No,Buy,No,1248,7,Flat/Appartment,High,London
+SOUTH EAST,Four or more Bedrooms,1400,16,Furnished,Yes,7/3/2022,No,No,Rent,Yes,1303,4,Flat/Appartment,Middle,Greater London
+Camden,Four or more Bedrooms,3250,5,Furnished,Yes,8/3/2022,Yes,No,Rent,No,1301,6,Flat/Appartment,Low,London
+Haringey,One Bedroom,430,29,Partially Furnished,Yes,9/3/2022,No,No,Rent,No,494,1,Flat/Appartment,Middle,Greater London
+Enfield,Four or more Bedrooms,975,5,Partially Furnished,No,10/3/2022,No,No,Buy,No,1329,4,Flat/Appartment,High,Greater London
+Hillingdon,One Bedroom,411,20,Furnished,Yes,11/3/2022,Yes,No,Rent,No,493,1,Flat/Appartment,High,Greater London
+Brent,Three Bedroom,1550,7,Not furnished,No,12/3/2022,Yes,Yes,Buy,Yes,917,1,Flat/Appartment,High,London
+Tower Hamlets,Two Bedroom,1517,13,Not furnished,Yes,13/3/2022,Yes,Yes,Buy,No,897,2,Flat/Appartment,High,London
+Enfield,One Bedroom,766,3,Not furnished,Yes,14/3/2022,No,No,Rent,Yes,659,1,Flat/Appartment,High,London
+Tower Hamlets,Four or more Bedrooms,1300,22,Furnished,Yes,15/3/2022,Yes,Yes,Rent,Yes,1435,5,Flat/Appartment,High,Greater London
+NORTH WEST,One Bedroom,415,17,Not furnished,Yes,16/3/2022,No,Yes,Buy,Yes,445,1,Flat/Appartment,Middle,London
+Richmond upon Thames,Four or more Bedrooms,2850,24,Furnished,Yes,17/3/2022,No,No,Buy,No,1316,7,Flat/Appartment,High,London
+Newham,Two Bedroom,950,24,Furnished,Yes,18/3/2022,No,Yes,Rent,Yes,881,2,Flat/Appartment,Low,Greater London
+Southwark,One Bedroom,997,27,Furnished,No,19/3/2022,No,Yes,Buy,No,688,1,Flat/Appartment,Low,Greater London
+Kensington and Chelsea,Three Bedroom,4333,5,Partially Furnished,No,20/3/2022,Yes,Yes,Buy,No,905,2,Flat/Appartment,High,London
+Sutton,Four or more Bedrooms,775,10,Furnished,Yes,21/3/2022,Yes,Yes,Rent,No,1260,4,Flat/Appartment,Middle,Greater London
+Harrow,Four or more Bedrooms,1050,30,Furnished,Yes,22/3/2022,Yes,No,Rent,Yes,1463,6,Flat/Appartment,High,London
+Lewisham,Four or more Bedrooms,1700,29,Partially Furnished,Yes,23/3/2022,No,Yes,Rent,No,1473,6,Flat/Appartment,High,Greater London
+Waltham Forest,One Bedroom,737,2,Furnished,No,24/3/2022,Yes,No,Buy,Yes,598,1,Flat/Appartment,Low,London
+Richmond upon Thames,Three Bedroom,1600,15,Partially Furnished,No,25/3/2022,No,Yes,Rent,No,1135,1,Flat/Appartment,Low,London
+Islington,One Bedroom,498,24,Partially Furnished,No,26/3/2022,No,Yes,Buy,No,620,1,Flat/Appartment,High,London
+NORTH EAST,Two Bedroom,450,8,Not furnished,Yes,27/3/2022,No,No,Rent,Yes,731,2,Flat/Appartment,Middle,London
+WEST MIDLANDS,Four or more Bedrooms,825,3,Not furnished,No,28/3/2022,No,No,Rent,No,1566,4,Flat/Appartment,High,London
+Richmond upon Thames,Four or more Bedrooms,1150,2,Furnished,Yes,29/3/2022,Yes,Yes,Buy,No,1584,5,Flat/Appartment,High,London
+Merton,One Bedroom,412,12,Not furnished,No,30/3/2022,Yes,No,Rent,No,507,1,Flat/Appartment,High,Greater London
+Waltham Forest,One Bedroom,368,7,Partially Furnished,No,31/3/2022,Yes,No,Rent,No,459,1,Flat/Appartment,High,London
+Waltham Forest,Two Bedroom,932,8,Partially Furnished,Yes,1/4/2022,No,No,Buy,Yes,837,2,Flat/Appartment,High,Greater London
+Ealing,Four or more Bedrooms,1000,23,Furnished,No,2/4/2022,No,No,Rent,Yes,1393,5,Flat/Appartment,Low,Greater London
+Hillingdon,Three Bedroom,1150,9,Not furnished,No,3/4/2022,No,No,Rent,No,1075,1,Others,Middle,Greater London
+LONDON,Four or more Bedrooms,1095,28,Furnished,No,4/4/2022,No,Yes,Rent,No,1375,6,Others,High,London
+Kingston upon Thames,One Bedroom,850,13,Furnished,No,5/4/2022,No,No,Buy,Yes,581,1,Others,Middle,London
+Enfield,Two Bedroom,1000,24,Furnished,No,6/4/2022,Yes,Yes,Buy,Yes,847,2,Others,Middle,London
+Wandsworth,One Bedroom,392,20,Furnished,Yes,7/4/2022,Yes,No,Buy,Yes,576,1,Others,Low,London
+Lewisham,Two Bedroom,975,29,Furnished,No,8/4/2022,No,No,Rent,No,872,1,Others,High,London
+Havering,Three Bedroom,975,27,Not furnished,No,9/4/2022,Yes,Yes,Rent,Yes,1164,2,Others,Middle,Greater London
+Haringey,Two Bedroom,1235,1,Not furnished,No,10/4/2022,No,Yes,Buy,No,876,2,Others,Middle,Greater London
+Inner London,Three Bedroom,1820,14,Not furnished,Yes,11/4/2022,Yes,Yes,Rent,Yes,1143,2,Others,High,London
+Croydon,Four or more Bedrooms,1450,24,Furnished,No,12/4/2022,Yes,No,Buy,Yes,1251,7,Others,Middle,London
+Kingston upon Thames,Four or more Bedrooms,850,8,Furnished,Yes,13/4/2022,No,Yes,Buy,No,1300,7,Others,High,London
+City of London,Three Bedroom,925,29,Not furnished,Yes,14/4/2022,Yes,Yes,Rent,Yes,1022,1,Others,Low,London
+Bromley,One Bedroom,400,12,Partially Furnished,Yes,15/4/2022,No,Yes,Buy,Yes,579,1,Others,Middle,London
+YORKSHIRE AND THE HUMBER,Four or more Bedrooms,850,1,Not furnished,No,16/4/2022,Yes,Yes,Rent,Yes,1204,7,Others,Middle,Greater London
+Bromley,One Bedroom,400,30,Partially Furnished,No,17/4/2022,Yes,No,Buy,Yes,512,1,Others,Middle,London
+Havering,One Bedroom,374,11,Partially Furnished,Yes,18/4/2022,No,Yes,Rent,Yes,603,1,Others,High,Greater London
+Islington,One Bedroom,1257,19,Partially Furnished,Yes,19/4/2022,No,No,Rent,No,527,1,Others,Middle,London
+Kensington and Chelsea,Four or more Bedrooms,2145,24,Furnished,No,20/4/2022,Yes,No,Buy,No,1577,6,Others,Middle,London
+Islington,Two Bedroom,1625,3,Partially Furnished,Yes,21/4/2022,Yes,No,Buy,Yes,707,1,Others,Middle,Greater London
+Westminster,Two Bedroom,2275,4,Furnished,Yes,22/4/2022,No,No,Rent,Yes,709,2,Others,High,London
+City of London,Four or more Bedrooms,2674,2,Partially Furnished,No,23/4/2022,No,,Rent,Yes,1329,6,Others,Low,London
+SOUTH WEST,Four or more Bedrooms,595,8,Partially Furnished,Yes,24/4/2022,Yes,Yes,Rent,No,1248,5,Others,Low,London
+Merton,Four or more Bedrooms,1750,2,Partially Furnished,Yes,25/4/2022,No,No,Rent,No,1279,4,Others,High,London
+Newham,One Bedroom,801,18,Not furnished,No,26/4/2022,Yes,Yes,Buy,No,471,1,Others,Low,Greater London
+Enfield,Three Bedroom,1250,8,Not furnished,Yes,27/4/2022,No,Yes,Buy,Yes,1164,3,Others,Middle,Greater London
+Haringey,One Bedroom,430,12,Partially Furnished,Yes,28/4/2022,No,No,Rent,Yes,467,1,Others,Low,London
+Merton,Three Bedroom,1350,25,Furnished,Yes,29/4/2022,No,No,Buy,No,943,1,Others,Middle,Greater London
+EAST MIDLANDS,Three Bedroom,550,23,Furnished,No,30/4/2022,Yes,Yes,Buy,No,1184,3,Others,Middle,London
+Hillingdon,One Bedroom,750,14,Partially Furnished,Yes,1/5/2022,Yes,Yes,Buy,No,531,1,Others,High,Greater London
+Southwark,One Bedroom,455,16,Partially Furnished,No,2/5/2022,No,Yes,Rent,Yes,556,1,Others,Low,London
+Outer London,One Bedroom,775,30,Not furnished,Yes,3/5/2022,No,Yes,Buy,No,621,1,Others,Low,London
+Haringey,Four or more Bedrooms,901,12,Partially Furnished,No,4/5/2022,Yes,No,Rent,Yes,1428,4,Others,Middle,London
+Barnet,One Bedroom,433,11,Furnished,No,5/5/2022,Yes,No,Buy,Yes,469,1,Others,Low,London
+Westminster,Two Bedroom,2383,14,Furnished,Yes,6/5/2022,No,Yes,Buy,Yes,701,2,Others,Low,Greater London
+Camden,Four or more Bedrooms,3033,30,Not furnished,Yes,7/5/2022,No,No,Buy,Yes,1451,4,Others,High,London
+Bromley,One Bedroom,725,7,Not furnished,No,8/5/2022,Yes,No,Buy,No,686,1,Others,Low,Greater London
+EAST MIDLANDS,Four or more Bedrooms,775,12,Furnished,No,9/5/2022,No,Yes,Buy,No,1210,6,Others,High,Greater London
+Waltham Forest,One Bedroom,375,18,Furnished,No,10/5/2022,No,Yes,Buy,No,452,1,Others,Middle,London
+Kensington and Chelsea,Two Bedroom,2492,17,Partially Furnished,No,11/5/2022,No,No,Rent,No,752,1,Others,High,London
+Westminster,One Bedroom,650,10,Not furnished,No,12/5/2022,Yes,No,Buy,No,567,1,Others,Low,Greater London
+Hammersmith and Fulham,Four or more Bedrooms,1517,24,Furnished,No,13/5/2022,Yes,Yes,Rent,No,1590,5,Others,Low,London
+Richmond upon Thames,Four or more Bedrooms,1150,11,Furnished,No,14/5/2022,Yes,No,Rent,Yes,1226,5,Others,Middle,Greater London
+Hillingdon,Four or more Bedrooms,1500,2,Partially Furnished,No,15/5/2022,Yes,No,Buy,Yes,1341,7,Others,Middle,Greater London
+Richmond upon Thames,Two Bedroom,1300,30,Furnished,Yes,16/5/2022,No,No,Buy,No,884,2,Others,High,London
+YORKSHIRE AND THE HUMBER,One Bedroom,286,14,Furnished,Yes,17/5/2022,No,No,Buy,Yes,474,1,Others,High,Greater London
+Westminster,One Bedroom,1625,11,Partially Furnished,No,18/5/2022,Yes,No,Buy,Yes,543,1,Others,Low,Greater London
+NORTH WEST,Four or more Bedrooms,795,5,Furnished,No,19/5/2022,No,Yes,Rent,Yes,1373,7,Others,Middle,London
+Southwark,Four or more Bedrooms,2002,30,Partially Furnished,Yes,20/5/2022,Yes,Yes,Buy,No,1414,7,Others,High,Greater London
+Sutton,One Bedroom,430,5,Partially Furnished,No,21/5/2022,No,No,Rent,No,633,1,Others,High,London
+Merton,Four or more Bedrooms,1000,27,Furnished,Yes,22/5/2022,No,Yes,Rent,No,1423,5,Others,Low,Greater London
+Enfield,Four or more Bedrooms,949,24,Furnished,Yes,23/5/2022,Yes,No,Rent,Yes,1447,7,Others,High,London
+Merton,Three Bedroom,1300,25,Furnished,Yes,24/5/2022,Yes,No,Rent,No,1156,3,Others,Low,London
+Brent,Two Bedroom,1300,26,Furnished,Yes,25/5/2022,Yes,No,Rent,No,835,2,Others,Low,Greater London
+Islington,Four or more Bedrooms,1387,20,Partially Furnished,No,26/5/2022,Yes,No,Rent,No,1581,7,Others,Middle,Greater London
+Croydon,Four or more Bedrooms,1500,11,Not furnished,Yes,27/5/2022,Yes,Yes,Buy,No,1263,6,Others,Middle,Greater London
+Outer London,One Bedroom,400,15,Furnished,No,28/5/2022,No,No,Buy,No,613,1,Others,High,Greater London
+Bexley,One Bedroom,380,1,Not furnished,Yes,29/5/2022,Yes,No,Rent,No,485,1,Others,Low,London
+Camden,Three Bedroom,2297,20,Partially Furnished,Yes,30/5/2022,No,Yes,Buy,No,1151,1,Others,Middle,Greater London
+Lambeth,Four or more Bedrooms,2145,17,Furnished,Yes,31/5/2022,Yes,No,Rent,No,1572,5,Others,Middle,Greater London
+Brent,Three Bedroom,1517,20,Partially Furnished,Yes,1/6/2022,No,Yes,Rent,Yes,1067,3,Others,High,London
+Bromley,One Bedroom,400,23,Furnished,Yes,2/6/2022,Yes,No,Buy,Yes,507,1,Others,High,London
+Brent,Four or more Bedrooms,1950,14,Not furnished,Yes,3/6/2022,Yes,No,Rent,No,1458,4,Others,High,London
+Hackney,One Bedroom,1083,8,Not furnished,Yes,4/6/2022,No,No,Buy,Yes,665,1,Others,High,London
+Inner London,Four or more Bedrooms,1300,7,Furnished,No,5/6/2022,No,Yes,Buy,No,1250,6,Others,Low,Greater London
+Merton,One Bedroom,900,20,Furnished,Yes,6/6/2022,Yes,Yes,Buy,No,431,1,Others,Middle,London
+Outer London,One Bedroom,400,10,Not furnished,Yes,7/6/2022,No,No,Rent,No,498,1,Others,High,Greater London
+EAST,Three Bedroom,675,7,Furnished,Yes,8/6/2022,No,Yes,Rent,Yes,1035,3,Others,Low,London
+Hounslow,Four or more Bedrooms,1595,13,Furnished,Yes,9/6/2022,No,Yes,Buy,Yes,1424,4,Others,Middle,Greater London
+Bromley,Four or more Bedrooms,1600,16,Not furnished,No,10/6/2022,Yes,No,Buy,Yes,1225,7,Others,Low,Greater London
+Barnet,Four or more Bedrooms,1062,1,Partially Furnished,No,11/6/2022,Yes,Yes,Buy,Yes,1365,7,Others,Low,Greater London
+Inner London,Four or more Bedrooms,2383,13,Furnished,No,12/6/2022,Yes,No,Rent,Yes,1231,7,Others,Low,Greater London
+Hounslow,One Bedroom,400,27,Furnished,No,13/6/2022,Yes,Yes,Rent,No,690,1,Others,Low,Greater London
+Inner London,One Bedroom,1192,8,Furnished,Yes,14/6/2022,Yes,Yes,Rent,Yes,635,1,Others,Middle,Greater London
+Inner London,Two Bedroom,1473,16,Partially Furnished,Yes,15/6/2022,No,No,Rent,Yes,724,2,Others,Middle,London
+Hillingdon,Three Bedroom,1200,2,Partially Furnished,No,16/6/2022,No,Yes,Buy,Yes,1045,2,Others,Low,London
+Newham,One Bedroom,386,2,Not furnished,No,17/6/2022,No,Yes,Rent,No,670,1,Others,Middle,Greater London
+Hackney,Four or more Bedrooms,1192,24,Not furnished,No,18/6/2022,Yes,No,Rent,Yes,1207,6,Others,Middle,London
+SOUTH EAST,Four or more Bedrooms,1400,17,Not furnished,Yes,19/6/2022,No,Yes,Rent,No,1514,4,Others,High,London
+WEST MIDLANDS,Four or more Bedrooms,510,4,Furnished,Yes,20/6/2022,No,No,Rent,No,1243,5,Others,Low,Greater London
+City of London,One Bedroom,450,9,Furnished,No,21/6/2022,No,Yes,Buy,No,623,1,Others,Low,Greater London
+Newham,Two Bedroom,950,20,Not furnished,Yes,22/6/2022,No,Yes,Rent,No,704,2,Others,High,Greater London
+Westminster,Two Bedroom,2383,20,Not furnished,No,23/6/2022,No,No,Buy,No,793,1,Others,Middle,Greater London
+Hammersmith and Fulham,Three Bedroom,2275,1,Not furnished,Yes,24/6/2022,No,Yes,Rent,Yes,956,1,Others,Middle,Greater London
+Redbridge,Two Bedroom,900,18,Partially Furnished,Yes,25/6/2022,No,Yes,Buy,No,714,1,Others,High,London
+Enfield,Three Bedroom,1250,28,Partially Furnished,No,26/6/2022,Yes,No,Rent,Yes,1134,2,Others,High,London
+EAST,Four or more Bedrooms,595,11,Not furnished,No,27/6/2022,No,No,Buy,No,1298,7,Others,Middle,Greater London
+Westminster,One Bedroom,750,10,Furnished,No,28/6/2022,No,No,Rent,No,510,1,Others,Low,London
+Hillingdon,One Bedroom,420,25,Not furnished,Yes,29/6/2022,No,No,Buy,No,608,1,Others,High,London
+Ealing,One Bedroom,450,2,Partially Furnished,No,30/6/2022,No,Yes,Buy,No,529,1,Others,Low,Greater London
+Kensington and Chelsea,Four or more Bedrooms,8667,3,Not furnished,No,1/7/2022,Yes,Yes,Buy,Yes,1500,5,Others,Low,Greater London
+Kensington and Chelsea,One Bedroom,1809,3,Not furnished,Yes,2/7/2022,No,No,Buy,Yes,406,1,Others,High,London
+EAST,One Bedroom,480,30,Partially Furnished,Yes,3/7/2022,No,Yes,Buy,No,486,1,Others,Low,London
+WEST MIDLANDS,Two Bedroom,500,10,Not furnished,Yes,4/7/2022,Yes,No,Rent,Yes,717,2,Others,Middle,London
+Barking and Dagenham,One Bedroom,675,12,Partially Furnished,No,5/7/2022,No,Yes,Rent,Yes,496,1,Others,Low,Greater London
+Croydon,One Bedroom,400,3,Furnished,No,6/7/2022,No,No,Rent,No,457,1,Others,Middle,Greater London
+LONDON,One Bedroom,953,6,Not furnished,Yes,7/7/2022,No,No,Buy,No,451,1,Others,High,London
+Barnet,Four or more Bedrooms,2427,18,Partially Furnished,Yes,8/7/2022,Yes,No,Buy,No,1275,5,Others,High,Greater London
+LONDON,Four or more Bedrooms,1075,10,Furnished,No,9/7/2022,Yes,Yes,Rent,No,1528,6,Others,Low,London
+Southwark,Four or more Bedrooms,1200,1,Not furnished,No,10/7/2022,Yes,No,Rent,Yes,1260,5,Others,High,London
+Havering,One Bedroom,368,9,Furnished,No,11/7/2022,Yes,No,Rent,No,557,1,Others,High,Greater London
+Inner London,One Bedroom,449,8,Partially Furnished,Yes,12/7/2022,Yes,No,Rent,Yes,472,1,Others,Low,London
+Outer London,Three Bedroom,1200,7,Partially Furnished,No,13/7/2022,No,Yes,Buy,Yes,1134,2,Others,Low,London
+Barnet,Three Bedroom,1517,6,Furnished,No,14/7/2022,No,Yes,Buy,Yes,1195,3,Others,Middle,Greater London
+SOUTH WEST,One Bedroom,475,16,Furnished,Yes,15/7/2022,Yes,No,Buy,Yes,525,1,Others,High,London
+Hounslow,Four or more Bedrooms,1575,11,Not furnished,Yes,16/7/2022,Yes,Yes,Buy,No,1218,4,Others,Low,London
+Lewisham,One Bedroom,400,11,Partially Furnished,No,17/7/2022,Yes,No,Rent,Yes,634,1,Others,Middle,Greater London
+Haringey,Four or more Bedrooms,962,3,Not furnished,Yes,18/7/2022,Yes,No,Buy,Yes,1211,6,Others,Low,London
+Barking and Dagenham,Three Bedroom,1000,25,Partially Furnished,Yes,19/7/2022,No,No,Rent,Yes,989,3,Others,Low,London
+Barnet,Two Bedroom,1170,1,Not furnished,No,20/7/2022,Yes,No,Rent,Yes,745,2,Others,Middle,London
+Newham,Four or more Bedrooms,1400,6,Not furnished,No,21/7/2022,Yes,No,Buy,Yes,1536,7,Terrace,Low,Greater London
+Harrow,Four or more Bedrooms,1000,8,Partially Furnished,Yes,22/7/2022,No,No,Buy,No,1215,4,Terrace,Low,Greater London
+Merton,One Bedroom,412,25,Furnished,Yes,23/7/2022,No,No,Buy,No,463,1,Terrace,Low,Greater London
+NORTH WEST,Four or more Bedrooms,795,29,Not furnished,No,24/7/2022,No,No,Rent,Yes,1445,7,Terrace,Low,Greater London
+Richmond upon Thames,One Bedroom,901,10,Partially Furnished,No,25/7/2022,Yes,No,Rent,No,432,1,Terrace,Low,Greater London
+Harrow,Two Bedroom,1000,30,Not furnished,No,26/7/2022,No,Yes,Rent,Yes,700,2,Terrace,Low,London
+Waltham Forest,One Bedroom,750,17,Furnished,No,27/7/2022,No,No,Buy,No,444,1,Terrace,Low,London
+Bexley,Two Bedroom,795,2,Partially Furnished,Yes,28/7/2022,Yes,Yes,Buy,Yes,704,2,Terrace,Low,London
+EAST,Three Bedroom,675,13,Partially Furnished,No,29/7/2022,Yes,No,Rent,No,1100,3,Terrace,Low,Greater London
+Lambeth,Three Bedroom,1532,26,Furnished,Yes,30/7/2022,No,No,Rent,No,1118,3,Terrace,Low,London
+Hounslow,One Bedroom,825,26,Furnished,No,31/7/2022,Yes,Yes,Buy,No,659,1,Terrace,Low,Greater London
+Westminster,One Bedroom,1603,21,Not furnished,No,1/8/2022,Yes,Yes,Buy,No,449,1,Terrace,Low,London
+Richmond upon Thames,Four or more Bedrooms,1050,29,Partially Furnished,No,2/8/2022,Yes,Yes,Rent,No,1241,7,Terrace,Low,London
+Westminster,Three Bedroom,3120,9,Furnished,No,3/8/2022,No,No,Buy,Yes,1062,3,Terrace,Low,Greater London
+Richmond upon Thames,One Bedroom,368,23,Furnished,Yes,4/8/2022,Yes,No,Rent,Yes,656,1,Terrace,Low,Greater London
+Kingston upon Thames,Four or more Bedrooms,1950,13,Not furnished,No,5/8/2022,No,Yes,Buy,No,1440,4,Terrace,Low,London
+SOUTH EAST,One Bedroom,565,6,Furnished,Yes,6/8/2022,No,Yes,Buy,No,535,1,Terrace,Low,London
+Redbridge,Four or more Bedrooms,875,8,Partially Furnished,Yes,7/8/2022,Yes,No,Buy,No,1257,5,Terrace,Low,London
+Sutton,Three Bedroom,1150,3,Furnished,Yes,8/8/2022,Yes,Yes,Rent,Yes,1076,2,Terrace,Low,Greater London
+Wandsworth,One Bedroom,1127,1,Not furnished,No,9/8/2022,Yes,Yes,Buy,Yes,661,1,Terrace,Low,Greater London
+EAST MIDLANDS,Two Bedroom,485,28,Furnished,Yes,10/8/2022,No,No,Rent,No,798,1,Terrace,Low,London
+Bexley,Four or more Bedrooms,775,24,Furnished,No,11/8/2022,Yes,Yes,Buy,Yes,1507,4,Terrace,Low,London
+Redbridge,One Bedroom,390,30,Not furnished,Yes,12/8/2022,No,No,Rent,Yes,607,1,Terrace,Low,Greater London
+Harrow,Four or more Bedrooms,1650,9,Partially Furnished,Yes,13/8/2022,No,Yes,Rent,Yes,1248,4,Terrace,Low,Greater London
+Barking and Dagenham,Two Bedroom,850,1,Not furnished,Yes,14/8/2022,Yes,Yes,Rent,No,829,1,Terrace,Low,Greater London
+EAST,One Bedroom,347,23,Furnished,Yes,15/8/2022,Yes,Yes,Buy,Yes,492,1,Terrace,Low,Greater London
+Tower Hamlets,Four or more Bedrooms,1278,12,Not furnished,Yes,16/8/2022,No,Yes,Buy,Yes,1417,6,Terrace,Low,Greater London
+Croydon,Two Bedroom,900,28,Not furnished,Yes,17/8/2022,No,No,Buy,No,811,2,Terrace,Low,London
+Hammersmith and Fulham,Four or more Bedrooms,1430,26,Not furnished,No,18/8/2022,No,No,Rent,Yes,1314,6,Terrace,Low,Greater London
+Croydon,One Bedroom,700,23,Not furnished,Yes,19/8/2022,Yes,No,Rent,No,486,1,Terrace,Low,London
+NORTH WEST,Two Bedroom,495,30,Furnished,Yes,20/8/2022,Yes,Yes,Rent,No,709,2,Terrace,Low,Greater London
+Brent,One Bedroom,953,1,Furnished,No,21/8/2022,Yes,Yes,Buy,Yes,491,1,Terrace,Low,London
+Greenwich,Two Bedroom,900,5,Furnished,Yes,22/8/2022,No,No,Buy,No,795,1,Terrace,Low,Greater London
+Hillingdon,Two Bedroom,925,29,Not furnished,No,23/8/2022,No,Yes,Rent,Yes,763,2,Terrace,Low,London
+Harrow,Two Bedroom,975,5,Furnished,Yes,24/8/2022,No,Yes,Buy,No,790,2,Terrace,Low,London
+Greenwich,One Bedroom,390,10,Partially Furnished,No,25/8/2022,Yes,Yes,Buy,Yes,453,1,Terrace,Low,Greater London
+Hounslow,Four or more Bedrooms,1000,26,Furnished,No,26/8/2022,Yes,No,Rent,Yes,1293,7,Terrace,Low,Greater London
+Tower Hamlets,One Bedroom,1170,8,Furnished,Yes,27/8/2022,No,No,Rent,Yes,482,1,Terrace,Low,London
+Kensington and Chelsea,Four or more Bedrooms,2167,3,Not furnished,No,28/8/2022,Yes,No,Buy,Yes,1591,5,Terrace,Low,Greater London
+EAST,Four or more Bedrooms,1020,7,Partially Furnished,Yes,29/8/2022,Yes,No,Buy,Yes,1371,4,Terrace,Low,London
+YORKSHIRE AND THE HUMBER,Three Bedroom,525,26,Furnished,No,30/8/2022,No,Yes,Buy,Yes,984,1,Terrace,Low,Greater London
+Wandsworth,One Bedroom,412,13,Furnished,No,31/8/2022,No,No,Rent,Yes,537,1,Terrace,Low,Greater London
+LONDON,Four or more Bedrooms,2002,7,Furnished,Yes,1/9/2022,Yes,Yes,Buy,Yes,1499,4,Terrace,Low,Greater London
+Enfield,Three Bedroom,1250,13,Furnished,Yes,2/9/2022,No,Yes,Buy,No,1155,2,Terrace,Low,London
+Hackney,Two Bedroom,1387,21,Not furnished,Yes,3/9/2022,No,No,Rent,No,704,2,Terrace,Low,Greater London
+Enfield,Four or more Bedrooms,1600,1,Partially Furnished,No,4/9/2022,No,Yes,Rent,Yes,1442,7,Terrace,Low,London
+NORTH EAST,Two Bedroom,450,20,Not furnished,Yes,5/9/2022,No,No,Buy,Yes,702,1,Terrace,Low,Greater London
+LONDON,One Bedroom,420,14,Furnished,No,6/9/2022,Yes,Yes,Rent,No,405,1,Terrace,Low,London
+EAST MIDLANDS,Two Bedroom,475,23,Not furnished,Yes,7/9/2022,Yes,Yes,Rent,Yes,785,1,Terrace,Low,Greater London
+Ealing,Four or more Bedrooms,2097,1,Partially Furnished,No,8/9/2022,Yes,No,Rent,Yes,1313,5,Terrace,Low,Greater London
+Richmond upon Thames,Four or more Bedrooms,2900,18,Furnished,Yes,9/9/2022,Yes,No,Rent,No,1284,5,Terrace,Low,London
+Inner London,Four or more Bedrooms,2383,19,Partially Furnished,Yes,10/9/2022,No,Yes,Buy,No,1391,5,Terrace,Low,Greater London
+Tower Hamlets,One Bedroom,1148,18,Partially Furnished,Yes,11/9/2022,Yes,No,Rent,No,487,1,Terrace,Low,London
+Inner London,One Bedroom,448,28,Partially Furnished,Yes,12/9/2022,Yes,Yes,Buy,No,626,1,Terrace,Low,Greater London
+Southwark,Four or more Bedrooms,2001,6,Partially Furnished,No,13/9/2022,No,Yes,Rent,Yes,1473,6,Terrace,Low,Greater London
+Southwark,One Bedroom,997,21,Not furnished,Yes,14/9/2022,Yes,No,Rent,No,437,1,Terrace,Low,London
+Sutton,Two Bedroom,850,21,Furnished,Yes,15/9/2022,Yes,Yes,Buy,No,752,1,Terrace,Low,Greater London
+Barnet,Four or more Bedrooms,2383,25,Furnished,No,16/9/2022,No,No,Buy,Yes,1251,5,Terrace,Low,Greater London
+Lewisham,One Bedroom,420,9,Partially Furnished,No,17/9/2022,No,Yes,Rent,Yes,553,1,Terrace,Low,Greater London
+Bromley,Four or more Bedrooms,916,25,Partially Furnished,Yes,18/9/2022,Yes,No,Rent,Yes,1598,5,Terrace,Low,London
+Hackney,Four or more Bedrooms,2167,5,Furnished,No,19/9/2022,No,No,Rent,No,1572,6,Terrace,Low,Greater London
+YORKSHIRE AND THE HUMBER,Four or more Bedrooms,455,28,Partially Furnished,Yes,20/9/2022,No,No,Buy,Yes,1337,5,Terrace,Low,London
+Harrow,One Bedroom,810,14,Not furnished,Yes,21/9/2022,No,Yes,Rent,Yes,670,1,Terrace,Low,Greater London
+Inner London,One Bedroom,1170,11,Furnished,Yes,22/9/2022,Yes,Yes,Buy,No,639,1,Terrace,Low,Greater London
+Croydon,One Bedroom,395,25,Not furnished,Yes,23/9/2022,Yes,No,Rent,Yes,677,1,Terrace,Low,London
+Merton,One Bedroom,850,10,Partially Furnished,Yes,24/9/2022,No,Yes,Rent,No,491,1,Terrace,Low,Greater London
+Bexley,One Bedroom,380,14,Partially Furnished,No,25/9/2022,Yes,No,Buy,Yes,524,1,Terrace,Low,Greater London
+Ealing,Four or more Bedrooms,1000,24,Not furnished,Yes,26/9/2022,No,Yes,Buy,No,1352,6,Terrace,Low,London
+Hillingdon,Four or more Bedrooms,925,21,Partially Furnished,Yes,27/9/2022,No,No,Rent,No,1534,7,Terrace,Low,Greater London
+Greenwich,One Bedroom,390,27,Furnished,No,28/9/2022,No,Yes,Rent,Yes,592,1,Terrace,Low,Greater London
+Brent,One Bedroom,433,11,Partially Furnished,Yes,29/9/2022,No,Yes,Buy,Yes,422,1,Terrace,Low,London
+Hackney,One Bedroom,1127,17,Furnished,Yes,30/9/2022,Yes,No,Buy,Yes,670,1,Terrace,Low,London
+Harrow,Three Bedroom,1250,28,Not furnished,No,1/10/2022,No,No,Buy,No,1006,3,Terrace,Low,London
+Barking and Dagenham,One Bedroom,350,18,Furnished,Yes,2/10/2022,No,Yes,Buy,No,440,1,Terrace,Low,London
+Islington,Three Bedroom,1950,17,Not furnished,Yes,3/10/2022,No,Yes,Rent,Yes,1149,3,Terrace,Low,Greater London
+Sutton,Four or more Bedrooms,800,29,Not furnished,Yes,4/10/2022,No,No,Buy,No,1429,7,Terrace,Low,Greater London
+Newham,Four or more Bedrooms,1350,13,Not furnished,Yes,5/10/2022,No,No,Buy,Yes,1519,7,Terrace,Low,Greater London
+YORKSHIRE AND THE HUMBER,One Bedroom,298,10,Not furnished,No,6/10/2022,No,Yes,Buy,Yes,660,1,Terrace,Low,Greater London
+YORKSHIRE AND THE HUMBER,Four or more Bedrooms,470,5,Partially Furnished,Yes,7/10/2022,Yes,No,Buy,No,1538,5,Terrace,Low,Greater London
+NORTH EAST,One Bedroom,271,27,Not furnished,Yes,8/10/2022,No,No,Buy,Yes,433,1,Terrace,Low,Greater London
+Havering,Three Bedroom,978,18,Furnished,No,9/10/2022,No,Yes,Rent,Yes,1151,2,Terrace,Low,London
+Bexley,Two Bedroom,800,6,Not furnished,No,10/10/2022,No,No,Buy,Yes,828,2,Terrace,Low,Greater London
+Bexley,Four or more Bedrooms,800,15,Not furnished,No,11/10/2022,No,No,Rent,Yes,1471,5,Terrace,Low,Greater London
+Hackney,Three Bedroom,1731,27,Furnished,Yes,12/10/2022,No,Yes,Rent,Yes,1172,3,Terrace,Low,Greater London
+Bexley,One Bedroom,650,28,Not furnished,No,13/10/2022,Yes,No,Rent,No,506,1,Terrace,Low,Greater London
+Bexley,Three Bedroom,1000,23,Partially Furnished,Yes,14/10/2022,Yes,No,Buy,Yes,988,1,Terrace,Low,London
+EAST MIDLANDS,Two Bedroom,480,24,Partially Furnished,Yes,15/10/2022,No,Yes,Rent,Yes,709,1,Terrace,Low,London
+Hounslow,One Bedroom,825,15,Not furnished,Yes,16/10/2022,Yes,Yes,Buy,Yes,422,1,Terrace,Low,London
+WEST MIDLANDS,One Bedroom,425,10,Not furnished,Yes,17/10/2022,No,No,Buy,Yes,651,1,Terrace,Low,Greater London
+NORTH EAST,Four or more Bedrooms,450,26,Furnished,Yes,18/10/2022,Yes,No,Buy,No,1305,6,Terrace,Low,London
+Tower Hamlets,Three Bedroom,1733,27,Not furnished,No,19/10/2022,No,No,Buy,Yes,1126,3,Terrace,Low,London
+EAST,Four or more Bedrooms,1000,9,Partially Furnished,Yes,20/10/2022,No,Yes,Buy,No,1465,5,Terrace,Low,London
+LONDON,Three Bedroom,1350,27,Not furnished,No,21/10/2022,No,No,Buy,Yes,1095,2,Terrace,Low,Greater London
+Hillingdon,Four or more Bedrooms,1598,25,Partially Furnished,No,22/10/2022,No,No,Buy,Yes,1409,7,Terrace,Low,Greater London
+Islington,Two Bedroom,1625,13,Partially Furnished,Yes,23/10/2022,Yes,Yes,Buy,No,706,2,Terrace,Low,Greater London
+Haringey,Two Bedroom,1213,27,Not furnished,No,24/10/2022,No,No,Rent,No,783,2,Terrace,Low,London
+Wandsworth,Three Bedroom,1700,12,Partially Furnished,Yes,25/10/2022,Yes,No,Buy,No,1089,3,Terrace,Low,London
+EAST MIDLANDS,Three Bedroom,550,3,Not furnished,No,26/10/2022,Yes,Yes,Buy,Yes,1075,2,Terrace,Low,Greater London
+Ealing,Two Bedroom,1200,9,Partially Furnished,No,27/10/2022,Yes,No,Buy,No,890,2,Terrace,Low,Greater London
+SOUTH WEST,Two Bedroom,595,27,Not furnished,Yes,28/10/2022,Yes,No,Buy,Yes,802,1,Terrace,Low,Greater London
+Redbridge,Four or more Bedrooms,850,11,Partially Furnished,No,29/10/2022,No,No,Rent,No,1537,7,Terrace,Low,London
+Inner London,One Bedroom,1170,8,Not furnished,Yes,30/10/2022,Yes,Yes,Buy,Yes,442,1,Terrace,Low,London
+Redbridge,One Bedroom,410,18,Furnished,Yes,31/10/2022,No,No,Buy,No,460,1,Terrace,Low,London
+Havering,Two Bedroom,825,10,Furnished,Yes,1/11/2022,Yes,No,Buy,No,755,2,Terrace,Low,London
+Inner London,Four or more Bedrooms,1300,2,Not furnished,Yes,2/11/2022,Yes,Yes,Rent,Yes,1257,5,Terrace,Low,London
+Tower Hamlets,One Bedroom,520,8,Partially Furnished,Yes,3/11/2022,No,Yes,Rent,No,400,1,Terrace,Low,Greater London
+EAST MIDLANDS,Four or more Bedrooms,760,1,Partially Furnished,No,4/11/2022,Yes,Yes,Rent,Yes,1335,5,Terrace,Low,Greater London
+Hammersmith and Fulham,One Bedroom,559,12,Partially Furnished,No,5/11/2022,Yes,No,Buy,Yes,676,1,Terrace,Low,London
+EAST,Two Bedroom,585,3,Not furnished,No,6/11/2022,Yes,Yes,Buy,Yes,752,2,Terrace,Low,Greater London
+Camden,One Bedroom,575,15,Not furnished,Yes,7/11/2022,Yes,No,Buy,Yes,695,1,Terrace,Low,Greater London
+EAST MIDLANDS,Three Bedroom,550,20,Not furnished,No,8/11/2022,Yes,Yes,Rent,Yes,1023,3,Terrace,Low,London
+EAST MIDLANDS,One Bedroom,295,23,Partially Furnished,No,9/11/2022,Yes,No,Buy,Yes,488,1,Terrace,Low,Greater London
+Brent,Four or more Bedrooms,1148,19,Furnished,No,10/11/2022,Yes,No,Buy,Yes,1236,5,Terrace,Low,Greater London
+Lewisham,Four or more Bedrooms,850,2,Partially Furnished,Yes,11/11/2022,Yes,No,Buy,No,1500,6,Terrace,Low,Greater London
+Harrow,Two Bedroom,1027,21,Furnished,Yes,12/11/2022,Yes,Yes,Buy,No,711,2,Terrace,Low,Greater London
+Brent,Two Bedroom,1300,30,Furnished,No,13/11/2022,No,Yes,Rent,No,780,2,Terrace,Low,London
+Westminster,One Bedroom,650,16,Partially Furnished,No,14/11/2022,No,Yes,Rent,No,542,1,Terrace,Low,London
+Barking and Dagenham,Four or more Bedrooms,1250,22,Not furnished,No,15/11/2022,No,Yes,Rent,Yes,1208,7,Terrace,Low,Greater London
+SOUTH WEST,Four or more Bedrooms,1080,30,Furnished,No,16/11/2022,No,No,Rent,Yes,1592,5,Terrace,Low,London
+Outer London,Four or more Bedrooms,1800,14,Furnished,No,17/11/2022,No,Yes,Buy,No,1262,5,Terrace,Low,Greater London
+Haringey,Four or more Bedrooms,2100,4,Partially Furnished,No,18/11/2022,No,Yes,Buy,Yes,1462,4,Terrace,Low,Greater London
