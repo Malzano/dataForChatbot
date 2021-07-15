@@ -1,6 +1,4 @@
-﻿Area,Rooms,Price (per thousand pounds),Walking time to the nearest metro station (mins),"Furnishing ( Furnished, Partially Furnished, Not Furnished)","Pet Accepted
-(Y/N)",Availability,"Supermarket Nearby
-(Y/N)",School Nearby (Y/N),Buy/Rent,"Balcony
+﻿Area,Rooms,Price (per thousand pounds),Walking time to the nearest metro station (mins),"Furnishing ( Furnished, Partially Furnished, Not Furnished)",Pet,Availability,Supermarket,School Nearby,Buy/Rent,"Balcony
 (Y/N)",Size (sqft),No. of toilets,Property Type,Level,Greater London/London
 Wandsworth,Four or more Bedrooms,2167,8,Furnished,Yes,18/9/2021,No,No,Rent,Yes,1383,6,Detached/Landed,Low,Greater London
 Havering,Two Bedroom,825,15,Partially Furnished,No,19/9/2021,Yes,No,Rent,Yes,760,1,Detached/Landed,Low,Greater London
