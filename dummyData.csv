@@ -1,4 +1,4 @@
-﻿PropertyName,Area,Rooms,Price (per thousand pounds),Walking time to the nearest metro station (mins),"Furnishing ( Furnished, Partially Furnished, Not Furnished)",Pet Accepted,Availability,Supermarket Nearby,School Nearby (Y/N),Buy/Rent,Balcony,Size (sqft),No. of toilets,Property Type,Level,Greater London/London
+﻿PropertyName,Area,Rooms,Price,Walking time to the nearest metro station (mins),"Furnishing ( Furnished, Partially Furnished, Not Furnished)",Pet Accepted,Availability,Supermarket Nearby,School,Buy/Rent,Balcony,Size (sqft),No. of toilets,Property Type,Level,Greater London/London
 ,,,,,,(Y/N),,(Y/N),,,(Y/N),,,,,
 Roselands,Wandsworth,Four or more Bedrooms,2167,8,Furnished,Yes,9/18/2021,No,No,Rent,Yes,1383,6,Detached/Landed,Low,Greater London
 26 Greenridge Crescent,Havering,Two Bedroom,825,15,Partially Furnished,No,9/19/2021,Yes,No,Rent,Yes,760,1,Detached/Landed,Low,Greater London
